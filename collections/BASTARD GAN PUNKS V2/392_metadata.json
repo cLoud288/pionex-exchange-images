@@ -1,0 +1,69 @@
+{
+  "token_id": 392,
+  "price_eth": 0.07450999,
+  "attributes": [
+    {
+      "value": "CALM AF (STILL)",
+      "trait_type": "HYPE TYPE"
+    },
+    {
+      "value": "STINKY BASTARD",
+      "trait_type": "BASTARDNESS"
+    },
+    {
+      "value": "26",
+      "trait_type": "SONG WORD COUNT"
+    },
+    {
+      "value": "ALIEN",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "SOLID AF",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "RIGHT",
+      "trait_type": "FACING DIRECTION"
+    },
+    {
+      "value": "PIPE",
+      "trait_type": "BAD HABIT(S)"
+    },
+    {
+      "value": "NUTTIN'",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "NUTTIN'",
+      "trait_type": "NECK"
+    },
+    {
+      "value": "OPEN BUCKS",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "BIG SHADES",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "NUTTIN'",
+      "trait_type": "NOSE"
+    },
+    {
+      "value": "NUTTIN'",
+      "trait_type": "EAR"
+    },
+    {
+      "value": "BANDANA",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "4",
+      "trait_type": "ATTRIBUTE COUNT"
+    }
+  ],
+  "name": "BASTARD GAN PUNK V2 #392",
+  "description": "BASTARD'S PERSIST.\nIN THE CURRENT OF DEATH I'VE LIVED INSIDE MY HEAD,\nBUT IT JUST DOESN'T MATTER HOW.\nITS A LONG WAY TO BRING THE KEYS.\n",
+  "image_filename": "392.png"
+}

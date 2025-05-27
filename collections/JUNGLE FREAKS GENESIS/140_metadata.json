@@ -1,0 +1,41 @@
+{
+  "token_id": 140,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "BABY BLUE",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "GREY",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "ANGRY",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "GRASS",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "SNOWBOARD GOGGLES",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GREEN GENERAL'S SUIT",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "BRUEN",
+      "trait_type": "Weapon"
+    }
+  ],
+  "name": "Jungle Freak 140",
+  "description": "",
+  "image_filename": "140.png"
+}

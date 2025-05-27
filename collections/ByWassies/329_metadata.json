@@ -1,0 +1,53 @@
+{
+  "token_id": 329,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral Light",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Zombie",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Sparkle Shaman",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "Cowboy",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Bored",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Arrow",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Brilliant Rose",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Queen Pink",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 329",
+  "description": "",
+  "image_filename": "329.png"
+}

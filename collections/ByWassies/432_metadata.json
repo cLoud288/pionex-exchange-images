@@ -1,0 +1,53 @@
+{
+  "token_id": 432,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Spiky",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Moon",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "Egg",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Arrow",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Goldenrod",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Royal Purple ",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 432",
+  "description": "",
+  "image_filename": "432.png"
+}

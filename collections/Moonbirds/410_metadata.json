@@ -1,0 +1,33 @@
+{
+  "token_id": 410,
+  "price_eth": 0.343579,
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tabby"
+    },
+    {
+      "trait_type": "Beak",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Skully"
+    },
+    {
+      "trait_type": "Feathers",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    }
+  ],
+  "name": "Moonbirds #410",
+  "description": "",
+  "image_filename": "410.bin"
+}

@@ -1,0 +1,37 @@
+{
+  "token_id": 132,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "TAN",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "BLACK + TATTED",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "SLEEPY",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "GRASS",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "NEON GREEN BEANIE",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GREEN GENERAL'S SUIT",
+      "trait_type": "Clothing"
+    }
+  ],
+  "name": "Jungle Freak 132",
+  "description": "",
+  "image_filename": "132.png"
+}

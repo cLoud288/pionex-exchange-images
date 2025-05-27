@@ -1,0 +1,36 @@
+{
+  "token_id": 438,
+  "price_eth": 0.007849,
+  "attributes": [
+    {
+      "value": "origin",
+      "trait_type": "class"
+    },
+    {
+      "value": "ZENDAYA",
+      "trait_type": "origin"
+    },
+    {
+      "display_type": "number",
+      "value": 2441,
+      "trait_type": "prime"
+    },
+    {
+      "value": "...",
+      "trait_type": "influence"
+    },
+    {
+      "display_type": "number",
+      "value": 0,
+      "trait_type": "words"
+    },
+    {
+      "display_type": "number",
+      "value": 156,
+      "trait_type": "lexicon"
+    }
+  ],
+  "name": "ZENDAYA",
+  "description": "...",
+  "image_filename": "438.png"
+}

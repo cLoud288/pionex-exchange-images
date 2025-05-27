@@ -1,0 +1,53 @@
+{
+  "token_id": 238,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Slime",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Sparkle",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Almond",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Slime",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Sweet Corn",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Pale Lemon Chiffon",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 238",
+  "description": "",
+  "image_filename": "238.png"
+}

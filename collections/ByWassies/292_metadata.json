@@ -1,0 +1,53 @@
+{
+  "token_id": 292,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral Light",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Duck",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Lightning",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Odd",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Trainers",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Rock",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Rock",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 292",
+  "description": "",
+  "image_filename": "292.png"
+}

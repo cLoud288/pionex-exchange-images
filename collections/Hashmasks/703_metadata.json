@@ -1,0 +1,41 @@
+{
+  "token_id": 703,
+  "price_eth": 0.054259,
+  "attributes": [
+    {
+      "value": "Glass",
+      "trait_type": "Eye Color"
+    },
+    {
+      "value": 703,
+      "trait_type": "Token ID"
+    },
+    {
+      "value": "Golden Robot",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Skin Color"
+    },
+    {
+      "value": "Basic",
+      "trait_type": "Mask"
+    },
+    {
+      "value": "No Item",
+      "trait_type": "Item"
+    },
+    {
+      "value": "Mannequin",
+      "trait_type": "Glyph"
+    },
+    {
+      "value": "Expressionist",
+      "trait_type": "Background"
+    }
+  ],
+  "name": "Dorsey",
+  "description": "⚠️ **ATTENTION**: Hashmask names can change at any time. Immediately before purchasing a Hashmask, enter the Hashmask's token ID into the `tokenNameByIndex` function on a site like [Etherscan](https://etherscan.io/address/0xc2c747e0f7004f9e8817db2ca4997657a7746928#readContract) to verify that the blockchain indicates that the Hashmask you're purchasing has the name you expect.\n\nHashmask #703",
+  "image_filename": "703.png"
+}

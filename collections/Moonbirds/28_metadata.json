@@ -1,0 +1,33 @@
+{
+  "token_id": 28,
+  "price_eth": 0.343579,
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Tabby"
+    },
+    {
+      "trait_type": "Beak",
+      "value": "Short"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Discerning"
+    },
+    {
+      "trait_type": "Feathers",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Fire"
+    }
+  ],
+  "name": "Moonbirds #28",
+  "description": "",
+  "image_filename": "28.bin"
+}

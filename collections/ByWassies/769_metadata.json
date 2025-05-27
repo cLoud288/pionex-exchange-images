@@ -1,0 +1,53 @@
+{
+  "token_id": 769,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Fuzzy",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Sun",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Odd",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Sandals",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Ruby",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Ruby",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 769",
+  "description": "",
+  "image_filename": "769.png"
+}

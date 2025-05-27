@@ -1,0 +1,36 @@
+{
+  "token_id": 333,
+  "price_eth": 0.007849,
+  "attributes": [
+    {
+      "value": "origin",
+      "trait_type": "class"
+    },
+    {
+      "value": "VRI1",
+      "trait_type": "origin"
+    },
+    {
+      "display_type": "number",
+      "value": 1087,
+      "trait_type": "prime"
+    },
+    {
+      "value": "...",
+      "trait_type": "influence"
+    },
+    {
+      "display_type": "number",
+      "value": 0,
+      "trait_type": "words"
+    },
+    {
+      "display_type": "number",
+      "value": 0,
+      "trait_type": "lexicon"
+    }
+  ],
+  "name": "VRI1",
+  "description": "...",
+  "image_filename": "333.png"
+}

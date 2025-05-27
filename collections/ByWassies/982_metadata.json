@@ -1,0 +1,53 @@
+{
+  "token_id": 982,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Platypus",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cloud",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Scared",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Frozen",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Frozen",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 982",
+  "description": "",
+  "image_filename": "982.png"
+}

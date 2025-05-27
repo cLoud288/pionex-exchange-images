@@ -1,0 +1,41 @@
+{
+  "token_id": 217,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "TAN",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "RED",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "SLEEPY",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "CIGARETTE",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "MONKEY HAT",
+      "trait_type": "Head"
+    },
+    {
+      "value": "CUT OFF BLACK TUX",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "M45",
+      "trait_type": "Weapon"
+    }
+  ],
+  "name": "Jungle Freak 217",
+  "description": "",
+  "image_filename": "217.png"
+}

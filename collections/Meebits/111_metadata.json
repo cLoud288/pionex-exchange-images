@@ -1,0 +1,61 @@
+{
+  "token_id": 111,
+  "price_eth": 0,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Simple",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Dark",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Stubble",
+      "trait_type": "Beard"
+    },
+    {
+      "value": "Dark",
+      "trait_type": "Beard Color"
+    },
+    {
+      "value": "Specs",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Dark Red",
+      "trait_type": "Glasses Color"
+    },
+    {
+      "value": "Hoodie",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Shirt Color"
+    },
+    {
+      "value": "Athletic Shorts",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Pants Color"
+    },
+    {
+      "value": "Slides",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Gold Chain",
+      "trait_type": "Necklace"
+    }
+  ],
+  "name": "Meebit #111",
+  "description": "Meebits are 20,000 unique 3D voxel characters created by a custom generative algorithm.",
+  "image_filename": "111.png"
+}

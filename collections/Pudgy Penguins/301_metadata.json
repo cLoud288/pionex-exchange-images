@@ -1,0 +1,29 @@
+{
+  "token_id": 301,
+  "price_eth": 10.219999,
+  "attributes": [
+    {
+      "value": "Pink",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Baby Pink",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "Bath Robe",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Hero Mask Blue",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Beanie Gray",
+      "trait_type": "Head"
+    }
+  ],
+  "name": "Pudgy Penguin #301",
+  "description": "A collection 8888 Cute Chubby Pudgy Penquins sliding around on the freezing ETH blockchain.",
+  "image_filename": "301.png"
+}

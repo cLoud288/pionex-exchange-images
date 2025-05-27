@@ -1,0 +1,53 @@
+{
+  "token_id": 842,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral Light",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Snail",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Sun",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Hope",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "Egg",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Scared",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Snail",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Blueberry",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Periwinkle Grey",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 842",
+  "description": "",
+  "image_filename": "842.png"
+}

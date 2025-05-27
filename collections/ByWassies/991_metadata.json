@@ -1,0 +1,53 @@
+{
+  "token_id": 991,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Wassietopia",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Spiky",
+      "trait_type": "Body"
+    },
+    {
+      "value": "None",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "Seifuku",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Chopsticks",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Aviators",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Wheels",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Outcast",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Outcast",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Outcast 991",
+  "description": "",
+  "image_filename": "991.png"
+}

@@ -1,0 +1,33 @@
+{
+  "token_id": 18,
+  "price_eth": 0.045617,
+  "attributes": [
+    {
+      "value": "Dark Mint",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Lochias",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Waldo",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Ghostie",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Friendly",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Black Beanie",
+      "trait_type": "Hats"
+    }
+  ],
+  "name": "alien fren #18",
+  "description": "alien frens are a collection of 10k randomly generated aliens who are trying to get back to their home, Planet Fren. Learn more at alienfrens.io",
+  "image_filename": "18.png"
+}

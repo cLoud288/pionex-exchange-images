@@ -1,0 +1,29 @@
+{
+  "token_id": 214,
+  "price_eth": 10.219999,
+  "attributes": [
+    {
+      "value": "Yellow",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "Hoodie Pink",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Squad",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Hat Red",
+      "trait_type": "Head"
+    }
+  ],
+  "name": "Pudgy Penguin #214",
+  "description": "A collection 8888 Cute Chubby Pudgy Penquins sliding around on the freezing ETH blockchain.",
+  "image_filename": "214.png"
+}

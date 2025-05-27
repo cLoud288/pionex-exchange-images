@@ -1,0 +1,41 @@
+{
+  "token_id": 620,
+  "price_eth": 2.445,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Green Half Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Pointy Straw Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Red Panda Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Determined",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Grin",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Monk Staff",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Dark Purple",
+      "trait_type": "Background"
+    }
+  ],
+  "name": "Azuki #620",
+  "description": "",
+  "image_filename": "620.png"
+}

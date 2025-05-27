@@ -1,0 +1,36 @@
+{
+  "token_id": 905,
+  "price_eth": 0.007849,
+  "attributes": [
+    {
+      "value": "origin",
+      "trait_type": "class"
+    },
+    {
+      "value": "MERCY",
+      "trait_type": "origin"
+    },
+    {
+      "display_type": "number",
+      "value": 3121,
+      "trait_type": "prime"
+    },
+    {
+      "value": "...",
+      "trait_type": "influence"
+    },
+    {
+      "display_type": "number",
+      "value": 0,
+      "trait_type": "words"
+    },
+    {
+      "display_type": "number",
+      "value": 255,
+      "trait_type": "lexicon"
+    }
+  ],
+  "name": "MERCY",
+  "description": "...",
+  "image_filename": "905.png"
+}

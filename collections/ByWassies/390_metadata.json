@@ -1,0 +1,53 @@
+{
+  "token_id": 390,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Platypus",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Sun",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Burger Flipper",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "Ice Cream",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Summer Green",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Pewter Blue ",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 390",
+  "description": "",
+  "image_filename": "390.png"
+}

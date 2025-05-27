@@ -1,0 +1,33 @@
+{
+  "token_id": 311,
+  "price_eth": 0.343579,
+  "attributes": [
+    {
+      "trait_type": "Beak",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Crescent"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Feathers",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Bucket Hat"
+    }
+  ],
+  "name": "Moonbirds #311",
+  "description": "",
+  "image_filename": "311.bin"
+}

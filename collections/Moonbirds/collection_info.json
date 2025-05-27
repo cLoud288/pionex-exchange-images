@@ -1,0 +1,6 @@
+{
+  "name": "Moonbirds",
+  "floor_price": 0.343579,
+  "description": "Moonbirds is a home for creatives, dreamers, and collectors seeking real connection as we all contribute to the future of web3 art, culture, and technology.\r\n\r\nMoonbird art is entirely in-chain, meaning the images are outputted directly from the smart contract, with no need for storage on IPFS or the like. There are also a number of customisable backgrounds available to holders based on their on-chain activity (such as other NFT holdings)—which disappear when the bird is transferred. You can check what each bird looks like with the different backgrounds on our [site](https://proof.xyz/moonbirds)",
+  "contract_address": "0x23581767a106ae21c074b2276D25e5C3e136a68b"
+}

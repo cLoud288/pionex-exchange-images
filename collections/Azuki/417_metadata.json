@@ -1,0 +1,41 @@
+{
+  "token_id": 417,
+  "price_eth": 2.445,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blue Short Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Red Panda Headband",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Green Yukata",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Bored",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smoking",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Kanabo",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ],
+  "name": "Azuki #417",
+  "description": "",
+  "image_filename": "417.png"
+}

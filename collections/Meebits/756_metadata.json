@@ -1,0 +1,45 @@
+{
+  "token_id": 756,
+  "price_eth": 0.809999,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Pigtails",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Dark",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Meepet Tee",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Shirt Color"
+    },
+    {
+      "value": "Skirt",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Camo",
+      "trait_type": "Pants Color"
+    },
+    {
+      "value": "Sandals",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Shoes Color"
+    }
+  ],
+  "name": "Meebit #756",
+  "description": "Meebits are 20,000 unique 3D voxel characters created by a custom generative algorithm.",
+  "image_filename": "756.png"
+}

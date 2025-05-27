@@ -1,0 +1,36 @@
+{
+  "token_id": 2,
+  "price_eth": 0.007849,
+  "attributes": [
+    {
+      "value": "origin",
+      "trait_type": "class"
+    },
+    {
+      "value": "HARVARD",
+      "trait_type": "origin"
+    },
+    {
+      "display_type": "number",
+      "value": 5437,
+      "trait_type": "prime"
+    },
+    {
+      "value": "...",
+      "trait_type": "influence"
+    },
+    {
+      "display_type": "number",
+      "value": 0,
+      "trait_type": "words"
+    },
+    {
+      "display_type": "number",
+      "value": 153,
+      "trait_type": "lexicon"
+    }
+  ],
+  "name": "HARVARD",
+  "description": "...",
+  "image_filename": "2.png"
+}

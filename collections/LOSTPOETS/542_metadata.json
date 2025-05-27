@@ -1,0 +1,36 @@
+{
+  "token_id": 542,
+  "price_eth": 0.007849,
+  "attributes": [
+    {
+      "value": "origin",
+      "trait_type": "class"
+    },
+    {
+      "value": "0XWX",
+      "trait_type": "origin"
+    },
+    {
+      "display_type": "number",
+      "value": 709,
+      "trait_type": "prime"
+    },
+    {
+      "value": "...",
+      "trait_type": "influence"
+    },
+    {
+      "display_type": "number",
+      "value": 0,
+      "trait_type": "words"
+    },
+    {
+      "display_type": "number",
+      "value": 0,
+      "trait_type": "lexicon"
+    }
+  ],
+  "name": "0XWX",
+  "description": "...",
+  "image_filename": "542.png"
+}

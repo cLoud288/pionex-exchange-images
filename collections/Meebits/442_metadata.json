@@ -1,0 +1,57 @@
+{
+  "token_id": 442,
+  "price_eth": 0.809999,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Buzzcut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Dark",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Aviators",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Halter Top",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Shirt Color"
+    },
+    {
+      "value": "Collar Shirt",
+      "trait_type": "Overshirt"
+    },
+    {
+      "value": "Blue Camo",
+      "trait_type": "Overshirt Color"
+    },
+    {
+      "value": "Skirt",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Dark Gray",
+      "trait_type": "Pants Color"
+    },
+    {
+      "value": "Skater",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Shoes Color"
+    }
+  ],
+  "name": "Meebit #442",
+  "description": "Meebits are 20,000 unique 3D voxel characters created by a custom generative algorithm.",
+  "image_filename": "442.png"
+}

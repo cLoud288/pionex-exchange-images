@@ -1,0 +1,37 @@
+{
+  "token_id": 681,
+  "price_eth": 2.445,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blue Spiky",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Golden Frog Kigurumi",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Chill",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Growl",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Banner",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ],
+  "name": "Azuki #681",
+  "description": "",
+  "image_filename": "681.png"
+}

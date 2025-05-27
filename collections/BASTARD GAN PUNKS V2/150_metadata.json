@@ -1,0 +1,45 @@
+{
+  "token_id": 150,
+  "price_eth": 0.07450999,
+  "attributes": [
+    {
+      "value": "HYPED AF (ANIMATED)",
+      "trait_type": "HYPE TYPE"
+    },
+    {
+      "value": "HIPPIE BASTARD",
+      "trait_type": "BASTARDNESS"
+    },
+    {
+      "value": "25",
+      "trait_type": "SONG WORD COUNT"
+    },
+    {
+      "value": "STRUMMING (12.5 FPS)",
+      "trait_type": "SPEEDOMETER"
+    },
+    {
+      "value": "188",
+      "trait_type": "NUM OF FRAMES"
+    },
+    {
+      "value": "2",
+      "trait_type": "HEAD TURNS"
+    },
+    {
+      "value": "NAH",
+      "trait_type": "FLOATY HEAD"
+    },
+    {
+      "value": "5 - GOES TO 11",
+      "trait_type": "BACKGROUND GLITCH LEVEL"
+    },
+    {
+      "value": "TRANSIENT COLORS",
+      "trait_type": "BACKGROUND MOOD"
+    }
+  ],
+  "name": "BASTARD GAN PUNK V2 #150",
+  "description": "WE HAD SOME\nTHAT WE'RE ALL BORROWED, BECAUSE THE MOONLIGHT IS THE NIGHT\nFINDS LIKE THAT ONE\nSTOP IN THE OCEAN OF A BROKEN WORLD\n",
+  "image_filename": "150.png"
+}

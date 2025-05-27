@@ -1,0 +1,73 @@
+{
+  "token_id": 425,
+  "price_eth": 0.07450999,
+  "attributes": [
+    {
+      "value": "CALM AF (STILL)",
+      "trait_type": "HYPE TYPE"
+    },
+    {
+      "value": "SER BASTARD",
+      "trait_type": "BASTARDNESS"
+    },
+    {
+      "value": "12",
+      "trait_type": "SONG WORD COUNT"
+    },
+    {
+      "value": "LARGE",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "GLITCHY AF",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "RIGHT",
+      "trait_type": "FACING DIRECTION"
+    },
+    {
+      "value": "PIPE",
+      "trait_type": "BAD HABIT(S)"
+    },
+    {
+      "value": "PRISM",
+      "trait_type": "GLITCH PATTERN"
+    },
+    {
+      "value": "NORMAL BEARD",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "NUTTIN'",
+      "trait_type": "NECK"
+    },
+    {
+      "value": "LIPSTICK",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "HORNED RIM GLASSES",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "NUTTIN'",
+      "trait_type": "NOSE"
+    },
+    {
+      "value": "GOLD EARRING",
+      "trait_type": "EAR"
+    },
+    {
+      "value": "TOP HAT",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "6",
+      "trait_type": "ATTRIBUTE COUNT"
+    }
+  ],
+  "name": "BASTARD GAN PUNK V2 #425",
+  "description": "BEING A NFT RAMSITS!\nCHAN FAKE STON AWAYS!\nSUR ON A RAKEY!\n",
+  "image_filename": "425.png"
+}

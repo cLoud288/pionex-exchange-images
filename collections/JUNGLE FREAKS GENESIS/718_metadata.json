@@ -1,0 +1,41 @@
+{
+  "token_id": 718,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "TAN",
+      "trait_type": "Background"
+    },
+    {
+      "value": "ZOMBIE",
+      "trait_type": "Species"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "RED HEARTS",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "CRAZY EYE BALL",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "AIR POD",
+      "trait_type": "Head"
+    },
+    {
+      "value": "YELLOW & RED SCARF",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "SILVER SAW GUN",
+      "trait_type": "Weapon"
+    }
+  ],
+  "name": "Jungle Freak 718",
+  "description": "",
+  "image_filename": "718.png"
+}

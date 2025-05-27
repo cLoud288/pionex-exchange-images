@@ -1,0 +1,41 @@
+{
+  "token_id": 91,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "WHITE",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "PINK",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "SHOCKED",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "THONG",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "TIE DYE CONSTRUCTION HELMET",
+      "trait_type": "Head"
+    },
+    {
+      "value": "ROMAN ARMOR",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "BLACK ANGEL WINGS",
+      "trait_type": "Weapon"
+    }
+  ],
+  "name": "Jungle Freak 91",
+  "description": "",
+  "image_filename": "91.png"
+}

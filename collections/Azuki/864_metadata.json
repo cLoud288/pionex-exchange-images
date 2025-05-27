@@ -1,0 +1,49 @@
+{
+  "token_id": 864,
+  "price_eth": 2.445,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Long",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "IKZ Baseball Cap",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Dragon",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Frog Headphones",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Frog T-Shirt",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Pierced Eyebrow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Growl",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Coin",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ],
+  "name": "Azuki #864",
+  "description": "",
+  "image_filename": "864.png"
+}

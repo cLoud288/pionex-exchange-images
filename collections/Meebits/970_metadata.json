@@ -1,0 +1,45 @@
+{
+  "token_id": 970,
+  "price_eth": 0.809999,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Pulled Back",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Dark",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Long-sleeved",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "Shirt Color"
+    },
+    {
+      "value": "Leggings",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Blue Camo",
+      "trait_type": "Pants Color"
+    },
+    {
+      "value": "Skater",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Shoes Color"
+    }
+  ],
+  "name": "Meebit #970",
+  "description": "Meebits are 20,000 unique 3D voxel characters created by a custom generative algorithm.",
+  "image_filename": "970.png"
+}

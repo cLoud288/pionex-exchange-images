@@ -1,0 +1,41 @@
+{
+  "token_id": 252,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "DARK GREY",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "PINK",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "SQUINTING",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "TASTY",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "BLONDE HAIR",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RED KING'S ROBE",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "BRUEN",
+      "trait_type": "Weapon"
+    }
+  ],
+  "name": "Jungle Freak 252",
+  "description": "",
+  "image_filename": "252.png"
+}

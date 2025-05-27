@@ -1,0 +1,41 @@
+{
+  "token_id": 568,
+  "price_eth": 2.445,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Pink Pixie",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Sword",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Red Qipao with Fur",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Ruby",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smoking",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Coin",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ],
+  "name": "Azuki #568",
+  "description": "",
+  "image_filename": "568.png"
+}

@@ -1,0 +1,53 @@
+{
+  "token_id": 103,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral Light",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Genie",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Sun",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "Pirate",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Almond",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Genie",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Frozen",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Frozen",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 103",
+  "description": "",
+  "image_filename": "103.png"
+}

@@ -1,0 +1,45 @@
+{
+  "token_id": 69,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Carpet",
+      "trait_type": "Rug"
+    },
+    {
+      "value": "Custard",
+      "trait_type": "Couch Colour"
+    },
+    {
+      "value": "Shy",
+      "trait_type": "Face"
+    },
+    {
+      "value": "McWassie",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Coral",
+      "trait_type": "Wassie Colour"
+    },
+    {
+      "value": "Lounging",
+      "trait_type": "Right Arm"
+    },
+    {
+      "value": "Loombook",
+      "trait_type": "Left Arm"
+    },
+    {
+      "value": "Lounging",
+      "trait_type": "Seat"
+    },
+    {
+      "value": "Cushion",
+      "trait_type": "Couch Bottom"
+    }
+  ],
+  "name": "Couch 69",
+  "description": "",
+  "image_filename": "69.png"
+}

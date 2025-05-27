@@ -1,0 +1,57 @@
+{
+  "token_id": 559,
+  "price_eth": 0.809999,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Fade",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Dark",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Specs",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "White",
+      "trait_type": "Glasses Color"
+    },
+    {
+      "value": "Classic Jersey",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Magenta",
+      "trait_type": "Shirt Color"
+    },
+    {
+      "value": "Athletic Shorts",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Magenta",
+      "trait_type": "Pants Color"
+    },
+    {
+      "value": "Basketball",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Magenta",
+      "trait_type": "Shoes Color"
+    },
+    {
+      "value": "8",
+      "trait_type": "Jersey Number"
+    }
+  ],
+  "name": "Meebit #559",
+  "description": "Meebits are 20,000 unique 3D voxel characters created by a custom generative algorithm.",
+  "image_filename": "559.png"
+}

@@ -1,0 +1,41 @@
+{
+  "token_id": 589,
+  "price_eth": 2.445,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Green Samurai",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Towel",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Frog T-Shirt",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Curious",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Grass",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Banner",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Background"
+    }
+  ],
+  "name": "Azuki #589",
+  "description": "",
+  "image_filename": "589.png"
+}

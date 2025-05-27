@@ -1,0 +1,37 @@
+{
+  "token_id": 609,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "DARK GREY",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "PINK",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "BLOODSHOT",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "TASTY",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "RED HAT",
+      "trait_type": "Head"
+    },
+    {
+      "value": "MINT KING'S ROBE",
+      "trait_type": "Clothing"
+    }
+  ],
+  "name": "Jungle Freak 609",
+  "description": "",
+  "image_filename": "609.png"
+}

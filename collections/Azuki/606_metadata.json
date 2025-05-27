@@ -1,0 +1,41 @@
+{
+  "token_id": 606,
+  "price_eth": 2.445,
+  "attributes": [
+    {
+      "value": "Red",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Fire",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Horns",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Tribal Tattoo",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smirk",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Kanabo",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Cool Gray",
+      "trait_type": "Background"
+    }
+  ],
+  "name": "Azuki #606",
+  "description": "",
+  "image_filename": "606.png"
+}

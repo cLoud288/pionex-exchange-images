@@ -1,0 +1,53 @@
+{
+  "token_id": 863,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral Dark",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Sparkle Sage",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Wassie?",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Emerald",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Emerald",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 863",
+  "description": "",
+  "image_filename": "863.png"
+}

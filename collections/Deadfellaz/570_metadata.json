@@ -1,0 +1,61 @@
+{
+  "token_id": 570,
+  "price_eth": 0.107622,
+  "attributes": [
+    {
+      "value": "Purple",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Red Bow Tie",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Fresh",
+      "trait_type": "Body Grade"
+    },
+    {
+      "value": "Shaved",
+      "trait_type": "Head"
+    },
+    {
+      "value": "Damaged",
+      "trait_type": "Head Grade"
+    },
+    {
+      "value": "Grimace",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Fresh",
+      "trait_type": "Mouth Grade"
+    },
+    {
+      "value": "Ring",
+      "trait_type": "Nose"
+    },
+    {
+      "value": "Fresh",
+      "trait_type": "Nose Grade"
+    },
+    {
+      "value": "White Glasses",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Damaged",
+      "trait_type": "Eyes Grade"
+    },
+    {
+      "value": "D2F3",
+      "trait_type": "Grade Combo"
+    },
+    {
+      "value": 6516,
+      "trait_type": "Rarity Rank"
+    }
+  ],
+  "name": "DeadFellaz #570",
+  "description": "Owning an NFT from the Deadfellaz 10K grants you access to one of the most innovative and trusted brands in Web3. The utility of DFZ is constantly evolving through multiple developments within metaverse, interoperability, digital identity & Web3 tech. DF token ownership comes with non-exclusive IP rights to the likeness of the artwork. IP ownership details are available on www.deadfellaz.io",
+  "image_filename": "570.png"
+}

@@ -1,0 +1,53 @@
+{
+  "token_id": 209,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Fridge",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Lightning Sage",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Dead",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Soft",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Edgewater",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Ghost White",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 209",
+  "description": "",
+  "image_filename": "209.png"
+}

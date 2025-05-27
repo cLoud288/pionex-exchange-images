@@ -1,0 +1,33 @@
+{
+  "token_id": 342,
+  "price_eth": 0.045617,
+  "attributes": [
+    {
+      "value": "Green Camo",
+      "trait_type": "Background"
+    },
+    {
+      "value": "OLU",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Dark Jacket",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Luv",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Sad",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bamboo Cap",
+      "trait_type": "Hats"
+    }
+  ],
+  "name": "alien fren #342",
+  "description": "alien frens are a collection of 10k randomly generated aliens who are trying to get back to their home, Planet Fren. Learn more at alienfrens.io",
+  "image_filename": "342.png"
+}

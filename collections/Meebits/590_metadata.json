@@ -1,0 +1,41 @@
+{
+  "token_id": 590,
+  "price_eth": 0.809999,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Buzzcut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Cap",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "White",
+      "trait_type": "Hat Color"
+    },
+    {
+      "value": "Bare Chest",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Ripped Jeans",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Workboots",
+      "trait_type": "Shoes"
+    }
+  ],
+  "name": "Meebit #590",
+  "description": "Meebits are 20,000 unique 3D voxel characters created by a custom generative algorithm.",
+  "image_filename": "590.png"
+}

@@ -1,0 +1,37 @@
+{
+  "token_id": 648,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "OLIVE.GREEN",
+      "trait_type": "Background"
+    },
+    {
+      "value": "ZOMBIE",
+      "trait_type": "Species"
+    },
+    {
+      "value": "BURNT",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "RED X",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "GAS MASK",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "RED HAIR",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RED SNIPER",
+      "trait_type": "Weapon"
+    }
+  ],
+  "name": "Jungle Freak 648",
+  "description": "",
+  "image_filename": "648.png"
+}

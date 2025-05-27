@@ -1,0 +1,73 @@
+{
+  "token_id": 2,
+  "price_eth": 0.07450999,
+  "attributes": [
+    {
+      "value": "CALM AF (STILL)",
+      "trait_type": "HYPE TYPE"
+    },
+    {
+      "value": "NOT A BASTARD",
+      "trait_type": "BASTARDNESS"
+    },
+    {
+      "value": "29",
+      "trait_type": "SONG WORD COUNT"
+    },
+    {
+      "value": "LARGE",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "GLITCHY AF",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "LEFT",
+      "trait_type": "FACING DIRECTION"
+    },
+    {
+      "value": "BIG SMOKE",
+      "trait_type": "BAD HABIT(S)"
+    },
+    {
+      "value": "GRID",
+      "trait_type": "GLITCH PATTERN"
+    },
+    {
+      "value": "MUSTACHE",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "GOLD CHAIN",
+      "trait_type": "NECK"
+    },
+    {
+      "value": "REGULAR",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "CLOWN EYES",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "NUTTIN'",
+      "trait_type": "NOSE"
+    },
+    {
+      "value": "NUTTIN'",
+      "trait_type": "EAR"
+    },
+    {
+      "value": "BALD",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "4",
+      "trait_type": "ATTRIBUTE COUNT"
+    }
+  ],
+  "name": "BASTARD GAN PUNK V2 #2",
+  "description": "BEING A BASTARD WITH YOUR HAIR CUT FROM YOUR BARKET FLEA \nTRYING TO HOLD SOMETHING SO HOLDING\nDON'T LET IT JUST PRETEND TO LEAVE\nI KNOW THAT I'M WRONG\n",
+  "image_filename": "2.png"
+}

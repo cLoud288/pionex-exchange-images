@@ -1,0 +1,41 @@
+{
+  "token_id": 465,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "GREY",
+      "trait_type": "Background"
+    },
+    {
+      "value": "ZOMBIE",
+      "trait_type": "Species"
+    },
+    {
+      "value": "RED",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "BTC",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "LAUGHING",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "AIR POD",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GREEN BULLET STRAP",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "AK97",
+      "trait_type": "Weapon"
+    }
+  ],
+  "name": "Jungle Freak 465",
+  "description": "",
+  "image_filename": "465.png"
+}

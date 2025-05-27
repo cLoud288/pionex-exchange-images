@@ -1,0 +1,41 @@
+{
+  "token_id": 371,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "DEEP BLUE",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "MEAN RED + BLUE",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "FROWN",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "RED HAT",
+      "trait_type": "Head"
+    },
+    {
+      "value": "DOUBLE STRAP",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "AUG",
+      "trait_type": "Weapon"
+    }
+  ],
+  "name": "Jungle Freak 371",
+  "description": "",
+  "image_filename": "371.png"
+}

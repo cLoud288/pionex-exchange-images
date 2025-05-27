@@ -1,0 +1,45 @@
+{
+  "token_id": 833,
+  "price_eth": 2.445,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Violet Flowy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Broken Straw Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Koi Tattoo",
+      "trait_type": "Neck"
+    },
+    {
+      "value": "Fur Hoodie",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Frown",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Coin",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ],
+  "name": "Azuki #833",
+  "description": "",
+  "image_filename": "833.png"
+}

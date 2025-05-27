@@ -1,0 +1,45 @@
+{
+  "token_id": 941,
+  "price_eth": 0.809999,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Wild",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Blonde",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Diagonal Tee",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Shirt Color"
+    },
+    {
+      "value": "Skirt",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Dark Gray",
+      "trait_type": "Pants Color"
+    },
+    {
+      "value": "Canvas",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "Shoes Color"
+    }
+  ],
+  "name": "Meebit #941",
+  "description": "Meebits are 20,000 unique 3D voxel characters created by a custom generative algorithm.",
+  "image_filename": "941.png"
+}

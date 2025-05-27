@@ -1,0 +1,53 @@
+{
+  "token_id": 208,
+  "price_eth": 0,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Spiky",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Blond",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Full",
+      "trait_type": "Beard"
+    },
+    {
+      "value": "Blond",
+      "trait_type": "Beard Color"
+    },
+    {
+      "value": "Hoodie",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Magenta",
+      "trait_type": "Shirt Color"
+    },
+    {
+      "value": "Cargo Pants",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Dark Gray",
+      "trait_type": "Pants Color"
+    },
+    {
+      "value": "Basketball",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "White",
+      "trait_type": "Shoes Color"
+    }
+  ],
+  "name": "Meebit #208",
+  "description": "Meebits are 20,000 unique 3D voxel characters created by a custom generative algorithm.",
+  "image_filename": "208.png"
+}

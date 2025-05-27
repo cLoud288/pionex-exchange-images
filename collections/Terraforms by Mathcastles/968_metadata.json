@@ -1,0 +1,41 @@
+{
+  "token_id": 968,
+  "price_eth": 0.448871,
+  "attributes": [
+    {
+      "value": 15,
+      "trait_type": "Level"
+    },
+    {
+      "value": "1",
+      "trait_type": "X Coordinate"
+    },
+    {
+      "value": "8",
+      "trait_type": "Y Coordinate"
+    },
+    {
+      "value": "Terrain",
+      "trait_type": "Mode"
+    },
+    {
+      "value": "Venmon",
+      "trait_type": "Zone"
+    },
+    {
+      "value": "5",
+      "trait_type": "Biome"
+    },
+    {
+      "value": "Pulse",
+      "trait_type": "Chroma"
+    },
+    {
+      "value": 47634,
+      "trait_type": "???"
+    }
+  ],
+  "name": "Level 15 at {1, 8}",
+  "description": "Terraforms by Mathcastles. Onchain land art from a dynamically generated, onchain 3D world.",
+  "image_filename": "968.png"
+}

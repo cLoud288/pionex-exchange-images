@@ -1,0 +1,41 @@
+{
+  "token_id": 966,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "DEEP BLUE",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "HALF HALF",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "SCARED",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "FROWN",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "HEADSET",
+      "trait_type": "Head"
+    },
+    {
+      "value": "BLOODY CUT OFF BLACK TUX",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "BRUEN + BARBED WIRE BASEBALL BAT",
+      "trait_type": "Weapon"
+    }
+  ],
+  "name": "Jungle Freak 966",
+  "description": "",
+  "image_filename": "966.png"
+}

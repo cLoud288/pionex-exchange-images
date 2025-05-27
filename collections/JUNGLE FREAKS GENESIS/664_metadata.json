@@ -1,0 +1,41 @@
+{
+  "token_id": 664,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "BABY BLUE",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "SQUINTING",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "GOLD GRENADE",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "GREEN BERET HAT",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GOLD CHAIN",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "KATANA",
+      "trait_type": "Weapon"
+    }
+  ],
+  "name": "Jungle Freak 664",
+  "description": "",
+  "image_filename": "664.png"
+}

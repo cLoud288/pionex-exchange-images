@@ -1,0 +1,69 @@
+{
+  "token_id": 426,
+  "price_eth": 0.07450999,
+  "attributes": [
+    {
+      "value": "CALM AF (STILL)",
+      "trait_type": "HYPE TYPE"
+    },
+    {
+      "value": "ROGUE BASTARD",
+      "trait_type": "BASTARDNESS"
+    },
+    {
+      "value": "29",
+      "trait_type": "SONG WORD COUNT"
+    },
+    {
+      "value": "PETITE",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "SOLID AF",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "RIGHT",
+      "trait_type": "FACING DIRECTION"
+    },
+    {
+      "value": "DOUBLE BIG SMOKE",
+      "trait_type": "BAD HABIT(S)"
+    },
+    {
+      "value": "BIG BEARD",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "NUTTIN'",
+      "trait_type": "NECK"
+    },
+    {
+      "value": "REGULAR",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "EYE MASK",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "NUTTIN'",
+      "trait_type": "NOSE"
+    },
+    {
+      "value": "NUTTIN'",
+      "trait_type": "EAR"
+    },
+    {
+      "value": "KNITTED CAP",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "4",
+      "trait_type": "ATTRIBUTE COUNT"
+    }
+  ],
+  "name": "BASTARD GAN PUNK V2 #426",
+  "description": "CRYPTOPUNKS DIAMONDS ON THE STREET\nAND WHAT HAPPENED\nWE CAN DO WITHOUT OUR LIVES\nI'M TRYING TO DENY IT\nI AM TRYING TO DENY IT\nI CAN HARDLY BREATHE\n",
+  "image_filename": "426.png"
+}

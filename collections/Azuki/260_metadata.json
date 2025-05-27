@@ -1,0 +1,41 @@
+{
+  "token_id": 260,
+  "price_eth": 2.445,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blue Hairband",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cowboy Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Hoshi Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Hopeful",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Boombox",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ],
+  "name": "Azuki #260",
+  "description": "",
+  "image_filename": "260.png"
+}

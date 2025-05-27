@@ -1,0 +1,36 @@
+{
+  "token_id": 566,
+  "price_eth": 0.007849,
+  "attributes": [
+    {
+      "value": "origin",
+      "trait_type": "class"
+    },
+    {
+      "value": "HORATIUS",
+      "trait_type": "origin"
+    },
+    {
+      "display_type": "number",
+      "value": 1201,
+      "trait_type": "prime"
+    },
+    {
+      "value": "...",
+      "trait_type": "influence"
+    },
+    {
+      "display_type": "number",
+      "value": 0,
+      "trait_type": "words"
+    },
+    {
+      "display_type": "number",
+      "value": 144,
+      "trait_type": "lexicon"
+    }
+  ],
+  "name": "HORATIUS",
+  "description": "...",
+  "image_filename": "566.png"
+}

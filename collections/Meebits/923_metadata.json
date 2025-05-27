@@ -1,0 +1,45 @@
+{
+  "token_id": 923,
+  "price_eth": 0.809999,
+  "attributes": [
+    {
+      "value": "Pig",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Bald",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Frameless",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Hoodie Up",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "Shirt Color"
+    },
+    {
+      "value": "Ripped Jeans",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Yellow",
+      "trait_type": "Shoes Color"
+    },
+    {
+      "value": "Gold Earring",
+      "trait_type": "Earring"
+    }
+  ],
+  "name": "Meebit #923",
+  "description": "Meebits are 20,000 unique 3D voxel characters created by a custom generative algorithm.",
+  "image_filename": "923.png"
+}

@@ -1,0 +1,37 @@
+{
+  "token_id": 611,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "PURPLE",
+      "trait_type": "Background"
+    },
+    {
+      "value": "ZOMBIE",
+      "trait_type": "Species"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "RED DRAGON",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "SALIVATING",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "BLACK FRKS HAT",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RED T SHIRT",
+      "trait_type": "Clothing"
+    }
+  ],
+  "name": "Jungle Freak 611",
+  "description": "",
+  "image_filename": "611.png"
+}

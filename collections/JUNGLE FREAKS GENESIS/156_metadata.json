@@ -1,0 +1,37 @@
+{
+  "token_id": 156,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "HEADQUARTERS",
+      "trait_type": "Background"
+    },
+    {
+      "value": "ZOMBIE",
+      "trait_type": "Species"
+    },
+    {
+      "value": "GREY",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "WHITE GLOWING",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "TONGUE OUT",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "BLACK HALO",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GREEN KING'S ROBE",
+      "trait_type": "Clothing"
+    }
+  ],
+  "name": "Jungle Freak 156",
+  "description": "",
+  "image_filename": "156.png"
+}

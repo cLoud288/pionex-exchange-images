@@ -1,0 +1,41 @@
+{
+  "token_id": 117,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "DEEP BLUE",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "ANGRY",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "BUBBLE GUM",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "BLACK CROWN",
+      "trait_type": "Head"
+    },
+    {
+      "value": "MINT KING'S ROBE",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "BRUEN",
+      "trait_type": "Weapon"
+    }
+  ],
+  "name": "Jungle Freak 117",
+  "description": "",
+  "image_filename": "117.png"
+}

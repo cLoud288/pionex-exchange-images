@@ -1,0 +1,37 @@
+{
+  "token_id": 906,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "JUNGLE NIGHT",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "SHOCKED",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "RED BANDANA",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "BLUE NINJA HEADBAND",
+      "trait_type": "Head"
+    },
+    {
+      "value": "I HEART ZOMBIES RED T SHIRT",
+      "trait_type": "Clothing"
+    }
+  ],
+  "name": "Jungle Freak 906",
+  "description": "",
+  "image_filename": "906.png"
+}

@@ -1,0 +1,33 @@
+{
+  "token_id": 152,
+  "price_eth": 3.868950001,
+  "attributes": [
+    {
+      "value": "Sydney",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Sun & Mucha",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Winter",
+      "trait_type": "Outfit"
+    },
+    {
+      "value": "Cell Phone",
+      "trait_type": "Prop"
+    },
+    {
+      "value": "Ponytail",
+      "trait_type": "Hairstyle"
+    },
+    {
+      "value": "Brown Eyes",
+      "trait_type": "Expression"
+    }
+  ],
+  "name": "DigiDaigaku #152 - Sydney",
+  "description": "DigiDaigaku is a collection of 2022 unique characters developed by Limit Break, a company founded by world famous game designers Gabriel Leydon and Halbert Nakagawa. The story behind these DigiDaigaku characters is just beginning. Over time more about their world will be revealed, so hold yours close! https://twitter.com/DigiDaigaku https://digidaigaku.com https://twitter.com/limitbreak https://limitbreak.com",
+  "image_filename": "152.png"
+}

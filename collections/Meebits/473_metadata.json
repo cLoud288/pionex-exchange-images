@@ -1,0 +1,57 @@
+{
+  "token_id": 473,
+  "price_eth": 0.809999,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Wild",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Dark",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Sunglasses",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Basketball Jersey",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Shirt Color"
+    },
+    {
+      "value": "Trenchcoat",
+      "trait_type": "Overshirt"
+    },
+    {
+      "value": "Skirt",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Denim",
+      "trait_type": "Pants Color"
+    },
+    {
+      "value": "LL Tall",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Gold Necklace",
+      "trait_type": "Necklace"
+    },
+    {
+      "value": "9",
+      "trait_type": "Jersey Number"
+    }
+  ],
+  "name": "Meebit #473",
+  "description": "Meebits are 20,000 unique 3D voxel characters created by a custom generative algorithm.",
+  "image_filename": "473.png"
+}

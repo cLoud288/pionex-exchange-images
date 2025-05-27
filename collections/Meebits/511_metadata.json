@@ -1,0 +1,45 @@
+{
+  "token_id": 511,
+  "price_eth": 0.809999,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Mohawk",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Dark",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Frameless",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Logo Tee",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Athletic Shorts",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Pants Color"
+    },
+    {
+      "value": "Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Shoes Color"
+    }
+  ],
+  "name": "Meebit #511",
+  "description": "Meebits are 20,000 unique 3D voxel characters created by a custom generative algorithm.",
+  "image_filename": "511.png"
+}

@@ -1,0 +1,41 @@
+{
+  "token_id": 24,
+  "price_eth": 0.448871,
+  "attributes": [
+    {
+      "value": 11,
+      "trait_type": "Level"
+    },
+    {
+      "value": "30",
+      "trait_type": "X Coordinate"
+    },
+    {
+      "value": "6",
+      "trait_type": "Y Coordinate"
+    },
+    {
+      "value": "Origin Terraform",
+      "trait_type": "Mode"
+    },
+    {
+      "value": "[DARK]",
+      "trait_type": "Zone"
+    },
+    {
+      "value": "83",
+      "trait_type": "Biome"
+    },
+    {
+      "value": "Pulse",
+      "trait_type": "Chroma"
+    },
+    {
+      "value": 36776,
+      "trait_type": "???"
+    }
+  ],
+  "name": "Level 11 at {30, 6}",
+  "description": "Terraforms by Mathcastles. Onchain land art from a dynamically generated, onchain 3D world.",
+  "image_filename": "24.png"
+}

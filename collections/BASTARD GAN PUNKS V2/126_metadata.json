@@ -1,0 +1,69 @@
+{
+  "token_id": 126,
+  "price_eth": 0.07450999,
+  "attributes": [
+    {
+      "value": "CALM AF (STILL)",
+      "trait_type": "HYPE TYPE"
+    },
+    {
+      "value": "NOOB BASTARD",
+      "trait_type": "BASTARDNESS"
+    },
+    {
+      "value": "23",
+      "trait_type": "SONG WORD COUNT"
+    },
+    {
+      "value": "ALIEN",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "SOLID AF",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "RIGHT",
+      "trait_type": "FACING DIRECTION"
+    },
+    {
+      "value": "EDIBLES???",
+      "trait_type": "BAD HABIT(S)"
+    },
+    {
+      "value": "UNIBROW",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "CHOKER",
+      "trait_type": "NECK"
+    },
+    {
+      "value": "MEDICAL MASK",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "EYE PATCH",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "NUTTIN'",
+      "trait_type": "NOSE"
+    },
+    {
+      "value": "NUTTIN'",
+      "trait_type": "EAR"
+    },
+    {
+      "value": "BALD",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "4",
+      "trait_type": "ATTRIBUTE COUNT"
+    }
+  ],
+  "name": "BASTARD GAN PUNK V2 #126",
+  "description": "BOOMER BOOMER\nLET IT GO\nLET IT GO\nSPEED FOR THE PAVEMENT OF MY LIFE\nPOSSIBLE AND DESTRUCTIVE\nCOULD YOU STAND BY ME?\n",
+  "image_filename": "126.png"
+}

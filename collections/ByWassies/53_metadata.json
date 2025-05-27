@@ -1,0 +1,53 @@
+{
+  "token_id": 53,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Ocean Daytime",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Platypus",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Moon Sage",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Eyelashes",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Boat",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Crystal",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Crystal",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 53",
+  "description": "",
+  "image_filename": "53.png"
+}

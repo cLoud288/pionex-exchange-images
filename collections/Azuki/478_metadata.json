@@ -1,0 +1,45 @@
+{
+  "token_id": 478,
+  "price_eth": 2.445,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Messy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Straw Hat",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Seer Eyeband",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Hoodie with Bag",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Chuckle",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Floorsweeper",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ],
+  "name": "Azuki #478",
+  "description": "",
+  "image_filename": "478.png"
+}

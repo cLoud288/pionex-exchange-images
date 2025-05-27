@@ -1,0 +1,36 @@
+{
+  "token_id": 625,
+  "price_eth": 0.007849,
+  "attributes": [
+    {
+      "value": "origin",
+      "trait_type": "class"
+    },
+    {
+      "value": "CITADELLE",
+      "trait_type": "origin"
+    },
+    {
+      "display_type": "number",
+      "value": 2221,
+      "trait_type": "prime"
+    },
+    {
+      "value": "...",
+      "trait_type": "influence"
+    },
+    {
+      "display_type": "number",
+      "value": 0,
+      "trait_type": "words"
+    },
+    {
+      "display_type": "number",
+      "value": 151,
+      "trait_type": "lexicon"
+    }
+  ],
+  "name": "CITADELLE",
+  "description": "...",
+  "image_filename": "625.png"
+}

@@ -1,0 +1,53 @@
+{
+  "token_id": 220,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Ocean Dawn",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Duck",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Sparkle",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Drool",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Eyelashes",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Boat",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Sea Green",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Ghost White",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 220",
+  "description": "",
+  "image_filename": "220.png"
+}

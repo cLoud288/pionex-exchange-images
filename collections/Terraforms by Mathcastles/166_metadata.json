@@ -1,0 +1,41 @@
+{
+  "token_id": 166,
+  "price_eth": 0.448871,
+  "attributes": [
+    {
+      "value": 15,
+      "trait_type": "Level"
+    },
+    {
+      "value": "13",
+      "trait_type": "X Coordinate"
+    },
+    {
+      "value": "10",
+      "trait_type": "Y Coordinate"
+    },
+    {
+      "value": "Terrain",
+      "trait_type": "Mode"
+    },
+    {
+      "value": "Avidana",
+      "trait_type": "Zone"
+    },
+    {
+      "value": "22",
+      "trait_type": "Biome"
+    },
+    {
+      "value": "Flow",
+      "trait_type": "Chroma"
+    },
+    {
+      "value": 51490,
+      "trait_type": "???"
+    }
+  ],
+  "name": "Level 15 at {13, 10}",
+  "description": "Terraforms by Mathcastles. Onchain land art from a dynamically generated, onchain 3D world.",
+  "image_filename": "166.png"
+}

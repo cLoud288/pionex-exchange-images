@@ -1,0 +1,29 @@
+{
+  "token_id": 648,
+  "price_eth": 10.219999,
+  "attributes": [
+    {
+      "value": "Mint",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Mint",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "Tank Top Blue",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cucumbers",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Beanie Gray",
+      "trait_type": "Head"
+    }
+  ],
+  "name": "Pudgy Penguin #648",
+  "description": "A collection 8888 Cute Chubby Pudgy Penquins sliding around on the freezing ETH blockchain.",
+  "image_filename": "648.png"
+}

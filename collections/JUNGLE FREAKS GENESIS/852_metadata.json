@@ -1,0 +1,37 @@
+{
+  "token_id": 852,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "TAN",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "GREY",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "CLOSED",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "GRASS",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "SURGEON'S CAP",
+      "trait_type": "Head"
+    },
+    {
+      "value": "M45",
+      "trait_type": "Weapon"
+    }
+  ],
+  "name": "Jungle Freak 852",
+  "description": "",
+  "image_filename": "852.png"
+}

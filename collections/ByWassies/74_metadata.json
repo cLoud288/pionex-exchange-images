@@ -1,0 +1,45 @@
+{
+  "token_id": 74,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Disco",
+      "trait_type": "Rug"
+    },
+    {
+      "value": "Custard",
+      "trait_type": "Couch Colour"
+    },
+    {
+      "value": "Starry",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Precarious",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Coral",
+      "trait_type": "Wassie Colour"
+    },
+    {
+      "value": "Ledger",
+      "trait_type": "Right Arm"
+    },
+    {
+      "value": "Games Console",
+      "trait_type": "Left Arm"
+    },
+    {
+      "value": "Wassie Fries",
+      "trait_type": "Seat"
+    },
+    {
+      "value": "Eggplant",
+      "trait_type": "Couch Bottom"
+    }
+  ],
+  "name": "Couch 74",
+  "description": "",
+  "image_filename": "74.png"
+}

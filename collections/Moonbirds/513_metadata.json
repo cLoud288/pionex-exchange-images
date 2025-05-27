@@ -1,0 +1,33 @@
+{
+  "token_id": 513,
+  "price_eth": 0.343579,
+  "attributes": [
+    {
+      "trait_type": "Beak",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Side-eye"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stark"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Feathers",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Pirate's Hat"
+    }
+  ],
+  "name": "Moonbirds #513",
+  "description": "",
+  "image_filename": "513.bin"
+}

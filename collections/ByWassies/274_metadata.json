@@ -1,0 +1,53 @@
+{
+  "token_id": 274,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral Dark",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Chubby",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Lightning Shaman",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "Plastic Bag",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Scribbles",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Wide",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Baby Pink",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 274",
+  "description": "",
+  "image_filename": "274.png"
+}

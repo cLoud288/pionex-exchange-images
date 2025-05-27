@@ -1,0 +1,37 @@
+{
+  "token_id": 558,
+  "price_eth": 2.445,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Flowy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Denim Jacket",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Joyful",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Chewing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Sakura Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White D",
+      "trait_type": "Background"
+    }
+  ],
+  "name": "Azuki #558",
+  "description": "",
+  "image_filename": "558.png"
+}

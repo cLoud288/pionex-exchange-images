@@ -1,0 +1,41 @@
+{
+  "token_id": 878,
+  "price_eth": 2.445,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Green Ponytail",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Cat Headband",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Bandaid",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Cat T-Shirt",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Daydreaming",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Laughing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ],
+  "name": "Azuki #878",
+  "description": "",
+  "image_filename": "878.png"
+}

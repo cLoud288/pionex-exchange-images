@@ -1,0 +1,49 @@
+{
+  "token_id": 838,
+  "price_eth": 0.809999,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Spiky",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Dark",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Mustache",
+      "trait_type": "Beard"
+    },
+    {
+      "value": "Dark",
+      "trait_type": "Beard Color"
+    },
+    {
+      "value": "Suit",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Regular Pants",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Dark Red",
+      "trait_type": "Pants Color"
+    },
+    {
+      "value": "Sneakers",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Green",
+      "trait_type": "Shoes Color"
+    }
+  ],
+  "name": "Meebit #838",
+  "description": "Meebits are 20,000 unique 3D voxel characters created by a custom generative algorithm.",
+  "image_filename": "838.png"
+}

@@ -1,0 +1,53 @@
+{
+  "token_id": 88,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral Dark",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Snail",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Moon",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "Horns",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Odd",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Snail",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "thristle",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Ghost White",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 88",
+  "description": "",
+  "image_filename": "88.png"
+}

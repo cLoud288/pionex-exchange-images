@@ -1,0 +1,41 @@
+{
+  "token_id": 502,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "DEEP BLUE",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "BROWN",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "CLOSED",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "RED BANDANA",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "MONKEY HAT",
+      "trait_type": "Head"
+    },
+    {
+      "value": "BULLETPROOF BLUE CAMO VEST",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "BRUEN",
+      "trait_type": "Weapon"
+    }
+  ],
+  "name": "Jungle Freak 502",
+  "description": "",
+  "image_filename": "502.png"
+}

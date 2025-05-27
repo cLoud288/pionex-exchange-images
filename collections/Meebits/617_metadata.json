@@ -1,0 +1,53 @@
+{
+  "token_id": 617,
+  "price_eth": 0.809999,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Buzzcut",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Dark",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Headphones",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Hat Color"
+    },
+    {
+      "value": "Hoodie",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Shirt Color"
+    },
+    {
+      "value": "Regular Pants",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Dark Gray",
+      "trait_type": "Pants Color"
+    },
+    {
+      "value": "Classic",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Shoes Color"
+    }
+  ],
+  "name": "Meebit #617",
+  "description": "Meebits are 20,000 unique 3D voxel characters created by a custom generative algorithm.",
+  "image_filename": "617.png"
+}

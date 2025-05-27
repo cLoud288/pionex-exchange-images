@@ -1,0 +1,41 @@
+{
+  "token_id": 18,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "MILITARY GREEN",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "BROWN",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "SCARED",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "SAVAGE",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "BLACK HAT",
+      "trait_type": "Head"
+    },
+    {
+      "value": "ORANGE PRISON JUMPSUIT",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "AUG",
+      "trait_type": "Weapon"
+    }
+  ],
+  "name": "Jungle Freak 18",
+  "description": "",
+  "image_filename": "18.png"
+}

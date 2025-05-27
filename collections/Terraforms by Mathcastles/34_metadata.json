@@ -1,0 +1,49 @@
+{
+  "token_id": 34,
+  "price_eth": 0.448871,
+  "attributes": [
+    {
+      "value": "2.0",
+      "trait_type": "Version"
+    },
+    {
+      "value": 7,
+      "trait_type": "Level"
+    },
+    {
+      "value": "12",
+      "trait_type": "X Coordinate"
+    },
+    {
+      "value": "4",
+      "trait_type": "Y Coordinate"
+    },
+    {
+      "value": "Origin Daydream",
+      "trait_type": "Mode"
+    },
+    {
+      "value": "Mt Zuka",
+      "trait_type": "Zone"
+    },
+    {
+      "value": "9",
+      "trait_type": "Biome"
+    },
+    {
+      "value": "Flow",
+      "trait_type": "Chroma"
+    },
+    {
+      "value": "On",
+      "trait_type": "Antenna"
+    },
+    {
+      "value": 28247,
+      "trait_type": "???"
+    }
+  ],
+  "name": "Level 7 at {12, 4}",
+  "description": "Terraforms by Mathcastles. Onchain land art from a dynamically generated, onchain 3D world.",
+  "image_filename": "34.png"
+}

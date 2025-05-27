@@ -1,0 +1,29 @@
+{
+  "token_id": 655,
+  "price_eth": 10.219999,
+  "attributes": [
+    {
+      "value": "Mint",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Dark Gray",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "Kimono Brown",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Ninja Headband",
+      "trait_type": "Head"
+    }
+  ],
+  "name": "Pudgy Penguin #655",
+  "description": "A collection 8888 Cute Chubby Pudgy Penquins sliding around on the freezing ETH blockchain.",
+  "image_filename": "655.png"
+}

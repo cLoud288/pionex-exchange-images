@@ -1,0 +1,33 @@
+{
+  "token_id": 888,
+  "price_eth": 0.045617,
+  "attributes": [
+    {
+      "value": "Mint",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Xenos",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Dark Dice Hoodie",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Dazed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Cig",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Paper Bag",
+      "trait_type": "Hats"
+    }
+  ],
+  "name": "alien fren #888",
+  "description": "alien frens are a collection of 10k randomly generated aliens who are trying to get back to their home, Planet Fren. Learn more at alienfrens.io",
+  "image_filename": "888.png"
+}

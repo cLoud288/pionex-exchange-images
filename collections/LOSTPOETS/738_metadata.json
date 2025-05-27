@@ -1,0 +1,36 @@
+{
+  "token_id": 738,
+  "price_eth": 0.007849,
+  "attributes": [
+    {
+      "value": "origin",
+      "trait_type": "class"
+    },
+    {
+      "value": "CO9U",
+      "trait_type": "origin"
+    },
+    {
+      "display_type": "number",
+      "value": 6967,
+      "trait_type": "prime"
+    },
+    {
+      "value": "...",
+      "trait_type": "influence"
+    },
+    {
+      "display_type": "number",
+      "value": 0,
+      "trait_type": "words"
+    },
+    {
+      "display_type": "number",
+      "value": 0,
+      "trait_type": "lexicon"
+    }
+  ],
+  "name": "CO9U",
+  "description": "...",
+  "image_filename": "738.png"
+}

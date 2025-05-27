@@ -1,0 +1,53 @@
+{
+  "token_id": 951,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral Dark",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Platypus",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Sun",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "Horns",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Surprised",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Alternate Gold",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Sandstorm",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 951",
+  "description": "",
+  "image_filename": "951.png"
+}

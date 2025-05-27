@@ -1,0 +1,53 @@
+{
+  "token_id": 858,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral Dark",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Chubby",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Lightning Sage",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "It failed",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "Cowboy",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Puffy",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Zombie Green",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Mountbatten Pink",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 858",
+  "description": "",
+  "image_filename": "858.png"
+}

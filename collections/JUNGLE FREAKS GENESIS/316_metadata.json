@@ -1,0 +1,33 @@
+{
+  "token_id": 316,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "BABY BLUE",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "WHITE",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "SHOCKED BLUE + RED",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "GRASS",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "MINT KING'S ROBE",
+      "trait_type": "Clothing"
+    }
+  ],
+  "name": "Jungle Freak 316",
+  "description": "",
+  "image_filename": "316.png"
+}

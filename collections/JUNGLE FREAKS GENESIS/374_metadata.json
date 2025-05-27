@@ -1,0 +1,41 @@
+{
+  "token_id": 374,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "GRANITE",
+      "trait_type": "Background"
+    },
+    {
+      "value": "ZOMBIE",
+      "trait_type": "Species"
+    },
+    {
+      "value": "GREEN",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "CRAZY + SCAR",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "SALIVATING",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "BLACK COWBOY HAT",
+      "trait_type": "Head"
+    },
+    {
+      "value": "SILVER CROSS",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "AK97 RED",
+      "trait_type": "Weapon"
+    }
+  ],
+  "name": "Jungle Freak 374",
+  "description": "",
+  "image_filename": "374.png"
+}

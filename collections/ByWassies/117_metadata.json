@@ -1,0 +1,53 @@
+{
+  "token_id": 117,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Wassietopia",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Body"
+    },
+    {
+      "value": "None",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "Apron",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Larping",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Anime",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Sandals",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Outcast",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Outcast",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Outcast 117",
+  "description": "",
+  "image_filename": "117.png"
+}

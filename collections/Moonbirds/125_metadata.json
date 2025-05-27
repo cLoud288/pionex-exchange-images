@@ -1,0 +1,33 @@
+{
+  "token_id": 125,
+  "price_eth": 0.343579,
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Tabby"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Beak",
+      "value": "Short"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Skully"
+    },
+    {
+      "trait_type": "Feathers",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Discerning"
+    }
+  ],
+  "name": "Moonbirds #125",
+  "description": "",
+  "image_filename": "125.bin"
+}

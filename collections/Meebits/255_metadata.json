@@ -1,0 +1,49 @@
+{
+  "token_id": 255,
+  "price_eth": 0.809999,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Pulled Back",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Dark",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Tee",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Shirt Color"
+    },
+    {
+      "value": "Jean Jacket",
+      "trait_type": "Overshirt"
+    },
+    {
+      "value": "Skirt",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Denim",
+      "trait_type": "Pants Color"
+    },
+    {
+      "value": "Canvas",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Red",
+      "trait_type": "Shoes Color"
+    }
+  ],
+  "name": "Meebit #255",
+  "description": "Meebits are 20,000 unique 3D voxel characters created by a custom generative algorithm.",
+  "image_filename": "255.png"
+}

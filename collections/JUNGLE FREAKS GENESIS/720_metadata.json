@@ -1,0 +1,37 @@
+{
+  "token_id": 720,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "GRANITE",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "RED",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "SQUINTING",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "BULLET",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "SURGEON'S CAP",
+      "trait_type": "Head"
+    },
+    {
+      "value": "GOLD CHAIN",
+      "trait_type": "Clothing"
+    }
+  ],
+  "name": "Jungle Freak 720",
+  "description": "",
+  "image_filename": "720.png"
+}

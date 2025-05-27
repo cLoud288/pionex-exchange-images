@@ -1,0 +1,41 @@
+{
+  "token_id": 401,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "DARK GREY",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "LIGHT BROWN",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "SQUINTING",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "ROAR",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "BROWN HAIR",
+      "trait_type": "Head"
+    },
+    {
+      "value": "NEON GREEN COP VEST",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "WOODEN RIFLE",
+      "trait_type": "Weapon"
+    }
+  ],
+  "name": "Jungle Freak 401",
+  "description": "",
+  "image_filename": "401.png"
+}

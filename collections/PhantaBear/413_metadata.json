@@ -1,0 +1,41 @@
+{
+  "token_id": 413,
+  "price_eth": 0.032449,
+  "attributes": [
+    {
+      "value": "BLUE",
+      "trait_type": "Background"
+    },
+    {
+      "value": "DEEP PURPLE",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "FABRIC SPLICING HOODIE",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "CROSS NECKLACE",
+      "trait_type": "Necklace"
+    },
+    {
+      "value": "GOLD FONT TOTE",
+      "trait_type": "Bag"
+    },
+    {
+      "value": "GRAFFITI FONT CAP",
+      "trait_type": "Head"
+    },
+    {
+      "value": "WHITE GLASSES",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "CASH",
+      "trait_type": "Accessories"
+    }
+  ],
+  "name": "PHANTA BEAR #413",
+  "description": "Phanta Bear is a collection of 10,000 algorithmically generated digital collectibles that double as membership cards for the Ezek Club.",
+  "image_filename": "413.png"
+}

@@ -1,0 +1,53 @@
+{
+  "token_id": 814,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral Dark",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Fuzzy",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cloud",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Burger Flipper",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "Doughnut",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Blep",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Incompetent",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Random",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Random",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 814",
+  "description": "",
+  "image_filename": "814.png"
+}

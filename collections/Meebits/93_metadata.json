@@ -1,0 +1,53 @@
+{
+  "token_id": 93,
+  "price_eth": 0.809999,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Pulled Back",
+      "trait_type": "Hair Style"
+    },
+    {
+      "value": "Dark",
+      "trait_type": "Hair Color"
+    },
+    {
+      "value": "Nerdy",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Charcoal",
+      "trait_type": "Glasses Color"
+    },
+    {
+      "value": "Oversized Hoodie",
+      "trait_type": "Shirt"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "Shirt Color"
+    },
+    {
+      "value": "Skirt",
+      "trait_type": "Pants"
+    },
+    {
+      "value": "Posh",
+      "trait_type": "Pants Color"
+    },
+    {
+      "value": "High Tops",
+      "trait_type": "Shoes"
+    },
+    {
+      "value": "Gold Earrings",
+      "trait_type": "Earring"
+    }
+  ],
+  "name": "Meebit #93",
+  "description": "Meebits are 20,000 unique 3D voxel characters created by a custom generative algorithm.",
+  "image_filename": "93.png"
+}

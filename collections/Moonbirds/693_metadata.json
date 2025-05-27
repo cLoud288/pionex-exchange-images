@@ -1,0 +1,33 @@
+{
+  "token_id": 693,
+  "price_eth": 0.343579,
+  "attributes": [
+    {
+      "trait_type": "Feathers",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stark"
+    },
+    {
+      "trait_type": "Beak",
+      "value": "Long"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Lincoln"
+    }
+  ],
+  "name": "Moonbirds #693",
+  "description": "",
+  "image_filename": "693.png"
+}

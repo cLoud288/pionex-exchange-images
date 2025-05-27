@@ -1,0 +1,29 @@
+{
+  "token_id": 520,
+  "price_eth": 10.219999,
+  "attributes": [
+    {
+      "value": "Yellow",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Mint",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "Surfboard Necklace",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Beard",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Cowboy Hat",
+      "trait_type": "Head"
+    }
+  ],
+  "name": "Pudgy Penguin #520",
+  "description": "A collection 8888 Cute Chubby Pudgy Penquins sliding around on the freezing ETH blockchain.",
+  "image_filename": "520.png"
+}

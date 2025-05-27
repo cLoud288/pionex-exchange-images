@@ -1,0 +1,29 @@
+{
+  "token_id": 556,
+  "price_eth": 10.219999,
+  "attributes": [
+    {
+      "value": "Beige",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "Overalls",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Cucumbers",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Mohawk Green",
+      "trait_type": "Head"
+    }
+  ],
+  "name": "Pudgy Penguin #556",
+  "description": "A collection 8888 Cute Chubby Pudgy Penquins sliding around on the freezing ETH blockchain.",
+  "image_filename": "556.png"
+}

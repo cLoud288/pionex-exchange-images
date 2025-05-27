@@ -1,0 +1,36 @@
+{
+  "token_id": 498,
+  "price_eth": 0.007849,
+  "attributes": [
+    {
+      "value": "origin",
+      "trait_type": "class"
+    },
+    {
+      "value": "THEOFFICE",
+      "trait_type": "origin"
+    },
+    {
+      "display_type": "number",
+      "value": 1361,
+      "trait_type": "prime"
+    },
+    {
+      "value": "...",
+      "trait_type": "influence"
+    },
+    {
+      "display_type": "number",
+      "value": 0,
+      "trait_type": "words"
+    },
+    {
+      "display_type": "number",
+      "value": 172,
+      "trait_type": "lexicon"
+    }
+  ],
+  "name": "THEOFFICE",
+  "description": "...",
+  "image_filename": "498.png"
+}

@@ -1,0 +1,41 @@
+{
+  "token_id": 43,
+  "price_eth": 2.445,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Blonde Flowy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Stud",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Black Qipao",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Determined",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Laughing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Bean Juice",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ],
+  "name": "Azuki #43",
+  "description": "",
+  "image_filename": "43.png"
+}

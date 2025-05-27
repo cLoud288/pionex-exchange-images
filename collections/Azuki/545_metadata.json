@@ -1,0 +1,41 @@
+{
+  "token_id": 545,
+  "price_eth": 2.445,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Bun",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Red Cylinder",
+      "trait_type": "Ear"
+    },
+    {
+      "value": "Blue Bikini",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Pierced Eyebrow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Chewing",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Kanabo",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ],
+  "name": "Azuki #545",
+  "description": "",
+  "image_filename": "545.png"
+}

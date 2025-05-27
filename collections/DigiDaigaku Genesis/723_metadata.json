@@ -1,0 +1,53 @@
+{
+  "token_id": 723,
+  "price_eth": 3.868950001,
+  "attributes": [
+    {
+      "value": "Areum",
+      "trait_type": "Name"
+    },
+    {
+      "value": "Cyberpunk",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Winter",
+      "trait_type": "Outfit"
+    },
+    {
+      "value": "Skateboard",
+      "trait_type": "Prop"
+    },
+    {
+      "value": "Cell Phone",
+      "trait_type": "Prop 2"
+    },
+    {
+      "value": "Ponytail",
+      "trait_type": "Hairstyle"
+    },
+    {
+      "value": "Love Birds",
+      "trait_type": "Accessory"
+    },
+    {
+      "value": "Steampunk",
+      "trait_type": "Accessory 2"
+    },
+    {
+      "value": "Far East",
+      "trait_type": "Accessory 3"
+    },
+    {
+      "value": "Hairband",
+      "trait_type": "Accessory 4"
+    },
+    {
+      "value": "Emerald Eyes",
+      "trait_type": "Expression"
+    }
+  ],
+  "name": "DigiDaigaku #723 - Areum",
+  "description": "DigiDaigaku is a collection of 2022 unique characters developed by Limit Break, a company founded by world famous game designers Gabriel Leydon and Halbert Nakagawa. The story behind these DigiDaigaku characters is just beginning. Over time more about their world will be revealed, so hold yours close! https://twitter.com/DigiDaigaku https://digidaigaku.com https://twitter.com/limitbreak https://limitbreak.com",
+  "image_filename": "723.png"
+}

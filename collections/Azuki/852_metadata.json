@@ -1,0 +1,41 @@
+{
+  "token_id": 852,
+  "price_eth": 2.445,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Pink Hairband",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Yellow Kanzashi",
+      "trait_type": "Headgear"
+    },
+    {
+      "value": "Red Qipao with Fur",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Closed",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Surprised",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Leather Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ],
+  "name": "Azuki #852",
+  "description": "",
+  "image_filename": "852.png"
+}

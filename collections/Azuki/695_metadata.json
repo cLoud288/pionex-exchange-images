@@ -1,0 +1,41 @@
+{
+  "token_id": 695,
+  "price_eth": 2.445,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Blonde Flowy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Blue Sunglasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Light Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Pierced Eyebrow",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Smirk",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Gloves",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White A",
+      "trait_type": "Background"
+    }
+  ],
+  "name": "Azuki #695",
+  "description": "",
+  "image_filename": "695.png"
+}

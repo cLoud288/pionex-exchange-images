@@ -1,0 +1,37 @@
+{
+  "token_id": 60,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "TAN",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "BLACK + TATTED",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "SHOCKED BLUE + RED",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "TONGUE",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "GOLD CHAIN",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "BLACK RIFLE",
+      "trait_type": "Weapon"
+    }
+  ],
+  "name": "Jungle Freak 60",
+  "description": "",
+  "image_filename": "60.png"
+}

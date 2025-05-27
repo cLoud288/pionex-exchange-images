@@ -1,0 +1,29 @@
+{
+  "token_id": 977,
+  "price_eth": 10.219999,
+  "attributes": [
+    {
+      "value": "Pink",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "Lab Coat",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Blushing",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Beanie Gray",
+      "trait_type": "Head"
+    }
+  ],
+  "name": "Pudgy Penguin #977",
+  "description": "A collection 8888 Cute Chubby Pudgy Penquins sliding around on the freezing ETH blockchain.",
+  "image_filename": "977.png"
+}

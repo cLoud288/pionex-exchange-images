@@ -1,0 +1,29 @@
+{
+  "token_id": 357,
+  "price_eth": 10.219999,
+  "attributes": [
+    {
+      "value": "Blue",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Leopard Pink",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "Kimono Red",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Circle Glasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Bucket Hat Green",
+      "trait_type": "Head"
+    }
+  ],
+  "name": "Pudgy Penguin #357",
+  "description": "A collection 8888 Cute Chubby Pudgy Penquins sliding around on the freezing ETH blockchain.",
+  "image_filename": "357.png"
+}

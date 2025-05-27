@@ -1,0 +1,37 @@
+{
+  "token_id": 734,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "MINT",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "GREY",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "SHOCKED BLUE + RED",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "SAVAGE + RED PILL",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "BLUE BEANIE",
+      "trait_type": "Head"
+    },
+    {
+      "value": "BLACK COWBOY SHIRT",
+      "trait_type": "Clothing"
+    }
+  ],
+  "name": "Jungle Freak 734",
+  "description": "",
+  "image_filename": "734.png"
+}

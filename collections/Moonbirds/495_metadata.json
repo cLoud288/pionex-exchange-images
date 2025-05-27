@@ -1,0 +1,33 @@
+{
+  "token_id": 495,
+  "price_eth": 0.343579,
+  "attributes": [
+    {
+      "value": "Discerning",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Punk Jacket",
+      "trait_type": "Outerwear"
+    },
+    {
+      "value": "Tranquil",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Pink",
+      "trait_type": "Feathers"
+    },
+    {
+      "value": "Gray",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Short",
+      "trait_type": "Beak"
+    }
+  ],
+  "name": "#495",
+  "description": "",
+  "image_filename": "495.png"
+}

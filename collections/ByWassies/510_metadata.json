@@ -1,0 +1,53 @@
+{
+  "token_id": 510,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral Dark",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Fuzzy",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Star",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Arrow",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Small",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Paws",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Kelly Green",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Ghost White",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 510",
+  "description": "",
+  "image_filename": "510.png"
+}

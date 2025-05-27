@@ -1,0 +1,41 @@
+{
+  "token_id": 579,
+  "price_eth": 0.054259,
+  "attributes": [
+    {
+      "value": 579,
+      "trait_type": "Token ID"
+    },
+    {
+      "value": "Book",
+      "trait_type": "Item"
+    },
+    {
+      "value": "Mexican",
+      "trait_type": "Mask"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Eye Color"
+    },
+    {
+      "value": "Male",
+      "trait_type": "Character"
+    },
+    {
+      "value": "Light",
+      "trait_type": "Skin Color"
+    },
+    {
+      "value": "Waves",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Zodiac Sign",
+      "trait_type": "Glyph"
+    }
+  ],
+  "name": "Hashmasks #579",
+  "description": "⚠️ **ATTENTION**: Hashmask names can change at any time. Immediately before purchasing a Hashmask, enter the Hashmask's token ID into the `tokenNameByIndex` function on a site like [Etherscan](https://etherscan.io/address/0xc2c747e0f7004f9e8817db2ca4997657a7746928#readContract) to verify that the blockchain indicates that the Hashmask you're purchasing has the name you expect.\n\nHashmask #579",
+  "image_filename": "579.png"
+}

@@ -1,0 +1,53 @@
+{
+  "token_id": 101,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Ocean Daytime",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Chubby",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Lightning",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Dead",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Boat",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Custard",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Seashell ",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 101",
+  "description": "",
+  "image_filename": "101.png"
+}

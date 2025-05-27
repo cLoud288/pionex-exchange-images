@@ -1,0 +1,41 @@
+{
+  "token_id": 147,
+  "price_eth": 0.448871,
+  "attributes": [
+    {
+      "value": 14,
+      "trait_type": "Level"
+    },
+    {
+      "value": "11",
+      "trait_type": "X Coordinate"
+    },
+    {
+      "value": "24",
+      "trait_type": "Y Coordinate"
+    },
+    {
+      "value": "Terrain",
+      "trait_type": "Mode"
+    },
+    {
+      "value": "Hyphae",
+      "trait_type": "Zone"
+    },
+    {
+      "value": "49",
+      "trait_type": "Biome"
+    },
+    {
+      "value": "Hyper",
+      "trait_type": "Chroma"
+    },
+    {
+      "value": 31274,
+      "trait_type": "???"
+    }
+  ],
+  "name": "Level 14 at {11, 24}",
+  "description": "Terraforms by Mathcastles. Onchain land art from a dynamically generated, onchain 3D world.",
+  "image_filename": "147.png"
+}

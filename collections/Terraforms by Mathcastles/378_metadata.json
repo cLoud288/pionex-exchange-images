@@ -1,0 +1,49 @@
+{
+  "token_id": 378,
+  "price_eth": 0.448871,
+  "attributes": [
+    {
+      "value": "2.0",
+      "trait_type": "Version"
+    },
+    {
+      "value": 6,
+      "trait_type": "Level"
+    },
+    {
+      "value": "13",
+      "trait_type": "X Coordinate"
+    },
+    {
+      "value": "11",
+      "trait_type": "Y Coordinate"
+    },
+    {
+      "value": "Daydream",
+      "trait_type": "Mode"
+    },
+    {
+      "value": "Angel",
+      "trait_type": "Zone"
+    },
+    {
+      "value": "24",
+      "trait_type": "Biome"
+    },
+    {
+      "value": "Hyper",
+      "trait_type": "Chroma"
+    },
+    {
+      "value": "On",
+      "trait_type": "Antenna"
+    },
+    {
+      "value": 32051,
+      "trait_type": "???"
+    }
+  ],
+  "name": "Level 6 at {13, 11}",
+  "description": "Terraforms by Mathcastles. Onchain land art from a dynamically generated, onchain 3D world.",
+  "image_filename": "378.png"
+}

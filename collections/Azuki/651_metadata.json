@@ -1,0 +1,41 @@
+{
+  "token_id": 651,
+  "price_eth": 2.445,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Green Flowy",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Black Glasses",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Blue Floral Kimono",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Ruby",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Lipstick",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Sakura Katana",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White C",
+      "trait_type": "Background"
+    }
+  ],
+  "name": "Azuki #651",
+  "description": "",
+  "image_filename": "651.png"
+}

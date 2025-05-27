@@ -1,0 +1,69 @@
+{
+  "token_id": 127,
+  "price_eth": 0.07450999,
+  "attributes": [
+    {
+      "value": "CALM AF (STILL)",
+      "trait_type": "HYPE TYPE"
+    },
+    {
+      "value": "GLOOMER BASTARD",
+      "trait_type": "BASTARDNESS"
+    },
+    {
+      "value": "26",
+      "trait_type": "SONG WORD COUNT"
+    },
+    {
+      "value": "PETITE",
+      "trait_type": "TYPE"
+    },
+    {
+      "value": "SOLID AF",
+      "trait_type": "BACKGROUND"
+    },
+    {
+      "value": "LEFT",
+      "trait_type": "FACING DIRECTION"
+    },
+    {
+      "value": "CIGGIE",
+      "trait_type": "BAD HABIT(S)"
+    },
+    {
+      "value": "LUXURIOUS BEARD",
+      "trait_type": "FACE"
+    },
+    {
+      "value": "NUTTIN'",
+      "trait_type": "NECK"
+    },
+    {
+      "value": "LIPSTICK",
+      "trait_type": "MOUTH"
+    },
+    {
+      "value": "NERDY CLASSICS",
+      "trait_type": "EYES"
+    },
+    {
+      "value": "NUTTIN'",
+      "trait_type": "NOSE"
+    },
+    {
+      "value": "NUTTIN'",
+      "trait_type": "EAR"
+    },
+    {
+      "value": "WILD HAIR",
+      "trait_type": "HEAD"
+    },
+    {
+      "value": "5",
+      "trait_type": "ATTRIBUTE COUNT"
+    }
+  ],
+  "name": "BASTARD GAN PUNK V2 #127",
+  "description": "BOOMERS ARE ALL WE KNOW\nCHALLENGING YOUR VOICE\nSPITTING ON A DIFFERENT CHOIR\nAIN'T NO NEED TO KNOW WHAT'S IN STORE\nIS THIS WHAT WE'VE BECOME?\n",
+  "image_filename": "127.png"
+}

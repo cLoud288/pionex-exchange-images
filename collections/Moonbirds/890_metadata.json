@@ -1,0 +1,33 @@
+{
+  "token_id": 890,
+  "price_eth": 0.343579,
+  "attributes": [
+    {
+      "trait_type": "Feathers",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Beak",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Stark"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Moon Hat"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Open"
+    }
+  ],
+  "name": "Moonbirds #890",
+  "description": "",
+  "image_filename": "890.bin"
+}

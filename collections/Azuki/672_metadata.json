@@ -1,0 +1,41 @@
+{
+  "token_id": 672,
+  "price_eth": 2.445,
+  "attributes": [
+    {
+      "value": "Human",
+      "trait_type": "Type"
+    },
+    {
+      "value": "Brown Samurai",
+      "trait_type": "Hair"
+    },
+    {
+      "value": "Eye Scar",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Yellow Jumpsuit",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "Careless",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Tactical Knife",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "Coin",
+      "trait_type": "Offhand"
+    },
+    {
+      "value": "Off White B",
+      "trait_type": "Background"
+    }
+  ],
+  "name": "Azuki #672",
+  "description": "",
+  "image_filename": "672.png"
+}

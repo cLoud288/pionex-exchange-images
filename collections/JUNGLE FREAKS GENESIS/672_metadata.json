@@ -1,0 +1,41 @@
+{
+  "token_id": 672,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "DARK GREY",
+      "trait_type": "Background"
+    },
+    {
+      "value": "ZOMBIE",
+      "trait_type": "Species"
+    },
+    {
+      "value": "BLACK",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "BLACK HEARTS",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "TONGUE OUT",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "PURPLE HAT",
+      "trait_type": "Head"
+    },
+    {
+      "value": "RED & WHITE SCARF",
+      "trait_type": "Clothing"
+    },
+    {
+      "value": "GREEN RPG + SNIPER",
+      "trait_type": "Weapon"
+    }
+  ],
+  "name": "Jungle Freak 672",
+  "description": "",
+  "image_filename": "672.png"
+}

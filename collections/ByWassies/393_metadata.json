@@ -1,0 +1,53 @@
+{
+  "token_id": 393,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral Dark",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Chubby",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Sparkle",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "It tried",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Almond",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Trainers",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Royal Purple",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Languid Lavender",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 393",
+  "description": "",
+  "image_filename": "393.png"
+}

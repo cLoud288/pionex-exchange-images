@@ -1,0 +1,53 @@
+{
+  "token_id": 829,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral Dark",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Normal",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Star",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "Fork",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "None",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Almond",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Rock",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Rock",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 829",
+  "description": "",
+  "image_filename": "829.png"
+}

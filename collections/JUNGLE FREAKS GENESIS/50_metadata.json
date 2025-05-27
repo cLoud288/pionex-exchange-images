@@ -1,0 +1,37 @@
+{
+  "token_id": 50,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "TAN",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "WHITE + TATTED",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "SCARED",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "CIGAR",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "RED HAT",
+      "trait_type": "Head"
+    },
+    {
+      "value": "BLUE KING'S ROBE",
+      "trait_type": "Clothing"
+    }
+  ],
+  "name": "Jungle Freak 50",
+  "description": "",
+  "image_filename": "50.png"
+}

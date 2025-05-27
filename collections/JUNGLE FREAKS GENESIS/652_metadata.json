@@ -1,0 +1,37 @@
+{
+  "token_id": 652,
+  "price_eth": 0.014999,
+  "attributes": [
+    {
+      "value": "GRANITE",
+      "trait_type": "Background"
+    },
+    {
+      "value": "GORILLA",
+      "trait_type": "Species"
+    },
+    {
+      "value": "BLUE",
+      "trait_type": "Fur"
+    },
+    {
+      "value": "CLOSED",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "SAVAGE + BLUE PILL",
+      "trait_type": "Mouth"
+    },
+    {
+      "value": "BLACK HAIR",
+      "trait_type": "Head"
+    },
+    {
+      "value": "BLACK OVERALLS",
+      "trait_type": "Clothing"
+    }
+  ],
+  "name": "Jungle Freak 652",
+  "description": "",
+  "image_filename": "652.png"
+}

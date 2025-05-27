@@ -1,0 +1,53 @@
+{
+  "token_id": 522,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Chubby",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Moon",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "Egg",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "3D Glasses",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Soft",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Madang",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Scandal",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 522",
+  "description": "",
+  "image_filename": "522.png"
+}

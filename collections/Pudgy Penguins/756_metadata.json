@@ -1,0 +1,29 @@
+{
+  "token_id": 756,
+  "price_eth": 10.219999,
+  "attributes": [
+    {
+      "value": "Pink",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Cream",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "Turtleneck Green",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Football",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Panda Hat",
+      "trait_type": "Head"
+    }
+  ],
+  "name": "Pudgy Penguin #756",
+  "description": "A collection 8888 Cute Chubby Pudgy Penquins sliding around on the freezing ETH blockchain.",
+  "image_filename": "756.png"
+}

@@ -1,0 +1,53 @@
+{
+  "token_id": 213,
+  "price_eth": 0.249999,
+  "attributes": [
+    {
+      "value": "Neutral Dark",
+      "trait_type": "Background"
+    },
+    {
+      "value": "Genie",
+      "trait_type": "Body"
+    },
+    {
+      "value": "Sparkle Shaman",
+      "trait_type": "Sigil"
+    },
+    {
+      "value": "None",
+      "trait_type": "Clothes"
+    },
+    {
+      "value": "None",
+      "trait_type": "Wieldable"
+    },
+    {
+      "value": "Bird Nest",
+      "trait_type": "Hat"
+    },
+    {
+      "value": "Wassie",
+      "trait_type": "Beak"
+    },
+    {
+      "value": "Lazy",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Genie",
+      "trait_type": "Feet"
+    },
+    {
+      "value": "Water",
+      "trait_type": "Body Colour"
+    },
+    {
+      "value": "Water",
+      "trait_type": "Belly Colour"
+    }
+  ],
+  "name": "Wassie 213",
+  "description": "",
+  "image_filename": "213.png"
+}

@@ -1,0 +1,41 @@
+{
+  "token_id": 906,
+  "price_eth": 0.448871,
+  "attributes": [
+    {
+      "value": 10,
+      "trait_type": "Level"
+    },
+    {
+      "value": "17",
+      "trait_type": "X Coordinate"
+    },
+    {
+      "value": "6",
+      "trait_type": "Y Coordinate"
+    },
+    {
+      "value": "Terrain",
+      "trait_type": "Mode"
+    },
+    {
+      "value": "[YUNA]",
+      "trait_type": "Zone"
+    },
+    {
+      "value": "9",
+      "trait_type": "Biome"
+    },
+    {
+      "value": "Pulse",
+      "trait_type": "Chroma"
+    },
+    {
+      "value": 49993,
+      "trait_type": "???"
+    }
+  ],
+  "name": "Level 10 at {17, 6}",
+  "description": "Terraforms by Mathcastles. Onchain land art from a dynamically generated, onchain 3D world.",
+  "image_filename": "906.png"
+}
